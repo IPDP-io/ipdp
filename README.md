@@ -1,6 +1,9 @@
 # Prerequisites to run your own instance of the 
 # InterPlanetary Distribution Portal
-Start an instance of the [CoinOS server](https://github.com/coinos/coinos-server)
+Use [CoinOS app](https://coinos.io/) for the setup.
+
+Alternatively, start an instance of the [CoinOS server](https://github.com/coinos/coinos-server)
+
 
     Create a new user on CoinOS app named 'coinos'
     Once user is created, click on your avatar on the top right and click on settings

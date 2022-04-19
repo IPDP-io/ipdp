@@ -17,7 +17,7 @@ Run the backend containers:
 
     cd server
     cp .env.sample .env
-    edit the .env variable COINOS_TOKEN and set it to your JWT token from the pre-requisites step
+    edit the .env variable COINOS_TOKEN and set it to your JWT token from the pre-requisites step. Also change COINOS_URL to https://coinos.io/api
     docker-compose up -d
     
 Setup pre-commit git hooks:
